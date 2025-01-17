@@ -10,7 +10,6 @@ Esta versión incluye mejoras solicitadas por usuarios, específicamente padres 
 
 ## Cambios y Mejoras Implementadas
 
-## Cambios y Mejoras Implementadas
 
 En esta iteración del proyecto, se realizaron las siguientes actualizaciones en base a las solicitudes de los usuarios:
 
