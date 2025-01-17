@@ -47,12 +47,15 @@ Este diagrama muestra cómo funciona la vista dividida en modo horizontal, permi
 A continuación, se presentan algunas capturas de pantalla de la aplicación:
 
 Página de Inicio Muestra el contenido principal y la navegación inicial para los usuarios: 
+<br>
 <img src="src/assets/readme_img/screen_1.png" alt="captura de la pagina principal y la navegación inicial para los usuarios" width="300">
 
 Lista de Partidos Tabla con todos los partidos disponibles, incluyendo detalles como equipos, fechas y ubicaciones:
+<br>
  <img src="src/assets/readme_img/screen_2.png" alt="captura de la pagina partidos disponibles, incluyendo detalles como equipos, fechas y ubicaciones" width="300">
 
 Vista de detalles Página de detalles de partido: 
+<br>
 <img src="src/assets/readme_img/screen_3.png" alt="captura de la pagina principal y la navegación inicial para los usuarios" width="300">
 
 ---
