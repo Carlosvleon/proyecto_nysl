@@ -57,13 +57,13 @@ Vista de detalles Página de detalles de partido:
 
 **Version 2 vertical**
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<p align="center">
   <img src="src/assets/readme_img/final_vertical_1.png" alt="final_vertical_1" width="300" style="margin: 10px;">
   <img src="src/assets/readme_img/final_vertical_2.png" alt="final_vertical_2" width="300" style="margin: 10px;">
   <img src="src/assets/readme_img/final_vertical_3.png" alt="final_vertical_3" width="300" style="margin: 10px;">
   <img src="src/assets/readme_img/final_vertical_4.png" alt="final_vertical_4" width="300" style="margin: 10px;">
   <img src="src/assets/readme_img/final_vertical_5.png" alt="final_vertical_5" width="300" style="margin: 10px;">
-</div>
+</p>
 
 **Version 2 horizontal**
 
