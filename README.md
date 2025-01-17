@@ -49,7 +49,11 @@ El siguiente diagrama ilustra la navegación dentro de la aplicación web, desta
 
 A continuación, se presentan algunas capturas de pantalla de la aplicación:
 
+<<<<<<< HEAD
 ### 🛠️ Version 1
+=======
+** 🛠️ Version 1**
+>>>>>>> 19ef611937c08436127f88ed819277e62444cb4b
 <p align="center">
    <h2>Página de Inicio Muestra el contenido principal y la navegación inicial para los usuarios: </h2>
    <img src="src/assets/readme_img/screen_1.png" alt="captura de la pagina principal y la navegación inicial para los usuarios" width="300">
