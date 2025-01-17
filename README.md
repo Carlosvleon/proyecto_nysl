@@ -74,7 +74,7 @@ El proyecto sigue utilizando las siguientes tecnologías modernas para su desarr
 Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
 
 1. Clona el repositorio:  
-   git clone https://github.com/carlosvleon/nysl-project.git
+   git clone https://github.com/carlosvleon/proyecto_nysl-cuarta-evaluacion.git
 
 2. Navega al directorio del proyecto:  
    cd nysl-project
