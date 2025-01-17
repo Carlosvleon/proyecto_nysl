@@ -59,27 +59,23 @@ Vista de detalles Página de detalles de partido:
 
 <br>
 <img src="src/assets/readme_img/final_vertical_1.png" alt="final_vertical_1" width="300">
-<br>
 <img src="src/assets/readme_img/final_vertical_2.png" alt="final_vertical_2" width="300">
-<br>
 <img src="src/assets/readme_img/final_vertical_3.png" alt="final_vertical_3" width="300">
-<br>
 <img src="src/assets/readme_img/final_vertical_4.png" alt="final_vertical_4" width="300">
-<br>
 <img src="src/assets/readme_img/final_vertical_5.png" alt="final_vertical_5" width="300">
 
 **Version 2 horizontal**
 
 <br>
-<img src="src/assets/readme_img/final_horizontal_1.png" alt="final_vertical_1" width="300">
+<img src="src/assets/readme_img/final_horizontal_1.png" alt="final_vertical_1" width="100%">
 <br>
-<img src="src/assets/readme_img/final_horizontal_2.png" alt="final_vertical_2" width="300">
+<img src="src/assets/readme_img/final_horizontal_2.png" alt="final_vertical_2" width="100%">
 <br>
-<img src="src/assets/readme_img/final_horizontal_3.png" alt="final_vertical_3" width="300">
+<img src="src/assets/readme_img/final_horizontal_3.png" alt="final_vertical_3" width="100%">
 <br>
-<img src="src/assets/readme_img/final_horizontal_4.png" alt="final_vertical_4" width="300">
+<img src="src/assets/readme_img/final_horizontal_4.png" alt="final_vertical_4" width="100%">
 <br>
-<img src="src/assets/readme_img/final_horizontal_5.png" alt="final_vertical_5" width="300">
+<img src="src/assets/readme_img/final_horizontal_5.png" alt="final_vertical_5" width="100%">
 ---
 
 ## Tecnologías Utilizadas
