@@ -49,22 +49,17 @@ El siguiente diagrama ilustra la navegación dentro de la aplicación web, desta
 
 A continuación, se presentan algunas capturas de pantalla de la aplicación:
 
-** 🛠️ Version 1**
-
-Página de Inicio Muestra el contenido principal y la navegación inicial para los usuarios: 
+### 🛠️ Version 1
 <p align="center">
+   <h2>Página de Inicio Muestra el contenido principal y la navegación inicial para los usuarios: </h2>
    <img src="src/assets/readme_img/screen_1.png" alt="captura de la pagina principal y la navegación inicial para los usuarios" width="300">
-</p>
-Lista de Partidos Tabla con todos los partidos disponibles, incluyendo detalles como equipos, fechas y ubicaciones:
-<p align="center">
+   <h2>Lista de Partidos Tabla con todos los partidos disponibles, incluyendo detalles como equipos, fechas y ubicaciones:</h2>
    <img src="src/assets/readme_img/screen_2.png" alt="captura de la pagina partidos disponibles, incluyendo detalles como equipos, fechas y ubicaciones" width="300">
-</p>
-Vista de detalles Página de detalles de partido: 
-<p align="center">
+   <h2>Vista de detalles Página de detalles de partido: </h2>
    <img src="src/assets/readme_img/screen_3.png" alt="captura de la pagina principal y la navegación inicial para los usuarios" width="300">
 </p>
 
-** 🛠️ Version 2 vertical**
+### 🛠️ Version 2 vertical
 
 <p align="center">
   <img src="src/assets/readme_img/final_vertical_1.png" alt="final_vertical_1" width="300" style="margin: 10px;">
@@ -74,17 +69,14 @@ Vista de detalles Página de detalles de partido:
   <img src="src/assets/readme_img/final_vertical_5.png" alt="final_vertical_5" width="300" style="margin: 10px;">
 </p>
 
-** 🛠️ Version 2 horizontal**
+### 🛠️ Version 2 horizontal
 
-<br>
-<img src="src/assets/readme_img/final_horizontal_1.png" alt="final_vertical_1" width="100%">
-<br>
-<img src="src/assets/readme_img/final_horizontal_2.png" alt="final_vertical_2" width="100%">
-<br>
-<img src="src/assets/readme_img/final_horizontal_3.png" alt="final_vertical_3" width="100%">
-<br>
-<img src="src/assets/readme_img/final_horizontal_4.png" alt="final_vertical_4" width="100%">
-<br>
+<p align="center">
+   <img src="src/assets/readme_img/final_horizontal_1.png" alt="final_vertical_1" width="100%">
+   <img src="src/assets/readme_img/final_horizontal_2.png" alt="final_vertical_2" width="100%">
+   <img src="src/assets/readme_img/final_horizontal_3.png" alt="final_vertical_3" width="100%">
+   <img src="src/assets/readme_img/final_horizontal_4.png" alt="final_vertical_4" width="100%">
+</p>
 
 ---
 
