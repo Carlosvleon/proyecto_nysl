@@ -33,7 +33,7 @@ En esta iteración del proyecto, se realizaron las siguientes actualizaciones en
 El siguiente diagrama ilustra la navegación dentro de la aplicación web, destacando las rutas principales para la lista de partidos y la página de detalles:
 
 <br>
-<img src="src/assets/readme_img/maqueta.png" alt="captura de la pagina principal y la navegación inicial para los usuarios" width="700">
+<img src="src/assets/readme_img/maqueta.png" alt="captura de la pagina principal y la navegación inicial para los usuarios" width="100%">
 
 ---
 
