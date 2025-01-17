@@ -48,15 +48,15 @@ A continuación, se presentan algunas capturas de pantalla de la aplicación:
 
 1. **Página de Inicio**  
    Muestra el contenido principal y la navegación inicial para los usuarios:  
-    ![Sketch del diseño de la pagina home](src\assets\readme_img\screen_1.png)*
+    ![captura de la pagina principal y la navegación inicial para los usuarios](src/assets/readme_img/screen_1.png)*
 
 2. **Lista de Partidos**  
    Tabla con todos los partidos disponibles, incluyendo detalles como equipos, fechas y ubicaciones:  
-   *(Imagen: captura_lista_partidos.png)*
+    ![captura de la pagina partidos disponibles, incluyendo detalles como equipos, fechas y ubicaciones](src/assets/readme_img/screen_3.png)*
 
 3. **Vista Dividida en Modo Horizontal**  
    Demostración de la funcionalidad de vista dividida para navegar rápidamente entre la lista de partidos y sus detalles:  
-   *(Imagen: captura_vista_dividida.png)*
+      ![captura de la pagina principal y la navegación inicial para los usuarios](src/assets/readme_img/screen_3.png)*
 
 ---
 
