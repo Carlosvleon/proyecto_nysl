@@ -48,7 +48,7 @@ A continuación, se presentan algunas capturas de pantalla de la aplicación:
 
 1. **Página de Inicio**  
    Muestra el contenido principal y la navegación inicial para los usuarios:  
-   *(Imagen: ![captura_inicio](src\assets\readme_img\screen_1.png).png)*
+    ![Sketch del diseño de la pagina home](src\assets\readme_img\screen_1.png)*
 
 2. **Lista de Partidos**  
    Tabla con todos los partidos disponibles, incluyendo detalles como equipos, fechas y ubicaciones:  
