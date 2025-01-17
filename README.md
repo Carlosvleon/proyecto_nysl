@@ -32,13 +32,8 @@ En esta iteración del proyecto, se realizaron las siguientes actualizaciones en
 
 El siguiente diagrama ilustra la navegación dentro de la aplicación web, destacando las rutas principales para la lista de partidos y la página de detalles:
 
-*(Imagen del diagrama de flujo 1 aquí: diagrama_navegacion.png)*
-
-### Diagrama de Flujo de Interacción en Modo Horizontal
-
-Este diagrama muestra cómo funciona la vista dividida en modo horizontal, permitiendo que los usuarios alternen entre los detalles de los partidos rápidamente:
-
-*(Imagen del diagrama de flujo 2 aquí: diagrama_horizontal.png)*
+<br>
+<img src="src/assets/readme_img/maqueta.png" alt="captura de la pagina principal y la navegación inicial para los usuarios" width="300">
 
 ---
 
@@ -79,7 +74,7 @@ El proyecto sigue utilizando las siguientes tecnologías modernas para su desarr
 Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
 
 1. Clona el repositorio:  
-   git clone https://github.com/[usuario]/nysl-project.git
+   git clone https://github.com/carlosvleon/nysl-project.git
 
 2. Navega al directorio del proyecto:  
    cd nysl-project
@@ -99,34 +94,10 @@ Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
 
 ---
 
-## Contribuir
-
-Si deseas contribuir a este proyecto, sigue estos pasos:
-
-1. Haz un fork del repositorio.  
-2. Crea una nueva rama:  
-   git checkout -b feature/nueva-funcionalidad
-
-3. Realiza tus cambios y haz commit:  
-   git commit -m "Descripción de los cambios"
-
-4. Sube tus cambios:  
-   git push origin feature/nueva-funcionalidad
-
-5. Abre un Pull Request explicando los cambios realizados.
-
----
-
-## Licencia
-
-Este proyecto está licenciado bajo la **Licencia MIT**. Consulta el archivo LICENSE para más detalles.
-
----
-
 ## Contacto
 
 Para consultas o sugerencias relacionadas con este proyecto, puedes contactar a:
 
-- **Nombre del Autor:** [Tu Nombre]  
-- **Correo Electrónico:** [tuemail@ejemplo.com]  
+- **Nombre del Autor:** Carlos Vallejos
+- **Correo Electrónico:** [vallejos.leon.carlos@gmail.com]  
 - **Curso:** Programación Front-End - Talento Digital (2023)  
