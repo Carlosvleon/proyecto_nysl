@@ -1,6 +1,6 @@
 # Proyecto NYSL (cuarta evaluacion)
 
-## Descripción General
+## 📄 Descripción General
 
 El **Proyecto NYSL** es una aplicación web desarrollada como parte del curso de **Programación Front-End - Talento Digital (2023)** siendo la continuacion de una serie de mejoras. Esta aplicación está diseñada para proporcionar información sobre los partidos y detalles de la liga de fútbol juvenil de Chicago. Su objetivo principal es apoyar a los jóvenes atletas de los vecindarios del lado norte de Chicago, brindándoles oportunidades para aprender y practicar habilidades relacionadas con el fútbol, como la cooperación en equipo y el buen espíritu deportivo.
 
@@ -8,7 +8,7 @@ Esta versión incluye mejoras solicitadas por usuarios, específicamente padres 
 
 ---
 
-## Cambios y Mejoras Implementadas
+## 📕 Cambios y Mejoras Implementadas
 
 
 En esta iteración del proyecto, se realizaron las siguientes actualizaciones en base a las solicitudes de los usuarios:
@@ -36,7 +36,7 @@ En esta iteración del proyecto, se realizaron las siguientes actualizaciones en
 **considerar que esta orientado solo para su uso en moviles, en esta fase solo de manera vertical**
 ---
 
-## Diagrama de Flujo de Navegación
+## 📈 Diagrama de Flujo de Navegación
 
 El siguiente diagrama ilustra la navegación dentro de la aplicación web, destacando las rutas principales para la lista de partidos y la página de detalles:
 
@@ -45,11 +45,11 @@ El siguiente diagrama ilustra la navegación dentro de la aplicación web, desta
 
 ---
 
-## Capturas de Pantalla
+## 📷 Capturas de Pantalla
 
 A continuación, se presentan algunas capturas de pantalla de la aplicación:
 
-**Version 1**
+** 🛠️ Version 1**
 
 Página de Inicio Muestra el contenido principal y la navegación inicial para los usuarios: 
 <p align="center">
@@ -63,7 +63,8 @@ Vista de detalles Página de detalles de partido:
 <p align="center">
    <img src="src/assets/readme_img/screen_3.png" alt="captura de la pagina principal y la navegación inicial para los usuarios" width="300">
 </p>
-**Version 2 vertical**
+
+** 🛠️ Version 2 vertical**
 
 <p align="center">
   <img src="src/assets/readme_img/final_vertical_1.png" alt="final_vertical_1" width="300" style="margin: 10px;">
@@ -73,7 +74,7 @@ Vista de detalles Página de detalles de partido:
   <img src="src/assets/readme_img/final_vertical_5.png" alt="final_vertical_5" width="300" style="margin: 10px;">
 </p>
 
-**Version 2 horizontal**
+** 🛠️ Version 2 horizontal**
 
 <br>
 <img src="src/assets/readme_img/final_horizontal_1.png" alt="final_vertical_1" width="100%">
@@ -87,7 +88,7 @@ Vista de detalles Página de detalles de partido:
 
 ---
 
-## Tecnologías Utilizadas
+## 📦 Tecnologías Utilizadas
 
 El proyecto sigue utilizando las siguientes tecnologías modernas para su desarrollo y funcionamiento:
 
@@ -101,7 +102,7 @@ El proyecto sigue utilizando las siguientes tecnologías modernas para su desarr
 
 ---
 
-## Instalación y Uso
+## 💻 Instalación y Uso
 
 Para abrir localmente:
 
@@ -124,18 +125,17 @@ Para abrir localmente:
 6. Ejecuta el linter y corrige archivos:  
    npm run lint
 
-### Visitar en Firebase Hostin
+### 🌐 Visitar en Firebase Hosting
 
 [Haz clic aquí para visitar el sitio en Firebase Hosting](https://proyecto-nysl-2.web.app/?#/)
 
-solicitar usuario de prueba por interno
+ Solicitar usuario de prueba por interno
 
 ---
 
-## Contacto
+## 📧 Contacto
 
 Para consultas o sugerencias relacionadas con este proyecto, puedes contactar a:
 
-- **Nombre del Autor:** Carlos Vallejos
-- **Correo Electrónico:** [vallejos.leon.carlos@gmail.com]  
-- **Curso:** Programación Front-End - Talento Digital (2023)  
+- ** Nombre del Autor: Carlos Vallejos
+- ** Correo Electrónico: [vallejos.leon.carlos@gmail.com]
