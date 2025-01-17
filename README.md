@@ -125,7 +125,10 @@ Para abrir localmente:
    npm run lint
 
 ### Visitar en Firebase Hostin
+
 [Haz clic aquí para visitar el sitio en Firebase Hosting](https://proyecto-nysl-2.web.app/?#/)
+
+solicitar usuario de prueba por interno
 
 ---
 
