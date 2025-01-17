@@ -10,6 +10,8 @@ Esta versión incluye mejoras solicitadas por usuarios, específicamente padres 
 
 ## Cambios y Mejoras Implementadas
 
+## Cambios y Mejoras Implementadas
+
 En esta iteración del proyecto, se realizaron las siguientes actualizaciones en base a las solicitudes de los usuarios:
 
 1. **Mapa para la Dirección de los Juegos**:  
@@ -23,6 +25,13 @@ En esta iteración del proyecto, se realizaron las siguientes actualizaciones en
 
 3. **Mejor Rendimiento de la Navegación**:  
    La funcionalidad de actualización entre las páginas de detalles del juego ahora es más rápida y fluida, lo que reduce significativamente el tiempo de espera.
+
+4. **Tablón de Comentarios con Inicio de Sesión en Firebase**:  
+   Se ha implementado un tablón de comentarios donde los usuarios pueden dejar sus opiniones y comentarios sobre los partidos. Esta funcionalidad requiere que los usuarios inicien sesión a través de Firebase, lo que garantiza que solo los usuarios autenticados puedan publicar comentarios.
+
+5. **Usuario de Pruebas**:  
+   Se ha habilitado un usuario de pruebas para que los interesados puedan explorar la aplicación sin necesidad de crear una cuenta. Este usuario de pruebas puede ser solicitado enviando un correo electrónico al dueño del repositorio.
+
 
 ## NOTA
 **considerar que esta orientado solo para su uso en moviles, en esta fase solo de manera vertical**
@@ -76,7 +85,7 @@ Vista de detalles Página de detalles de partido:
 <br>
 <img src="src/assets/readme_img/final_horizontal_4.png" alt="final_vertical_4" width="100%">
 <br>
-<img src="src/assets/readme_img/final_horizontal_5.png" alt="final_vertical_5" width="100%">
+
 ---
 
 ## Tecnologías Utilizadas
