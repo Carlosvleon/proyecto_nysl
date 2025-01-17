@@ -41,6 +41,8 @@ El siguiente diagrama ilustra la navegación dentro de la aplicación web, desta
 
 A continuación, se presentan algunas capturas de pantalla de la aplicación:
 
+**Version 1**
+
 Página de Inicio Muestra el contenido principal y la navegación inicial para los usuarios: 
 <br>
 <img src="src/assets/readme_img/screen_1.png" alt="captura de la pagina principal y la navegación inicial para los usuarios" width="300">
@@ -53,6 +55,31 @@ Vista de detalles Página de detalles de partido:
 <br>
 <img src="src/assets/readme_img/screen_3.png" alt="captura de la pagina principal y la navegación inicial para los usuarios" width="300">
 
+**Version 2 vertical**
+
+<br>
+<img src="src/assets/readme_img/final_vertical_1.png" alt="final_vertical_1" width="300">
+<br>
+<img src="src/assets/readme_img/final_vertical_2.png" alt="final_vertical_2" width="300">
+<br>
+<img src="src/assets/readme_img/final_vertical_3.png" alt="final_vertical_3" width="300">
+<br>
+<img src="src/assets/readme_img/final_vertical_4.png" alt="final_vertical_4" width="300">
+<br>
+<img src="src/assets/readme_img/final_vertical_5.png" alt="final_vertical_5" width="300">
+
+**Version 2 horizontal**
+
+<br>
+<img src="src/assets/readme_img/final_horizontal_1.png" alt="final_vertical_1" width="300">
+<br>
+<img src="src/assets/readme_img/final_horizontal_2.png" alt="final_vertical_2" width="300">
+<br>
+<img src="src/assets/readme_img/final_horizontal_3.png" alt="final_vertical_3" width="300">
+<br>
+<img src="src/assets/readme_img/final_horizontal_4.png" alt="final_vertical_4" width="300">
+<br>
+<img src="src/assets/readme_img/final_horizontal_5.png" alt="final_vertical_5" width="300">
 ---
 
 ## Tecnologías Utilizadas
@@ -71,7 +98,7 @@ El proyecto sigue utilizando las siguientes tecnologías modernas para su desarr
 
 ## Instalación y Uso
 
-Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
+Para abrir localmente:
 
 1. Clona el repositorio:  
    git clone https://github.com/carlosvleon/proyecto_nysl-cuarta-evaluacion.git
@@ -91,6 +118,9 @@ Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
 
 6. Ejecuta el linter y corrige archivos:  
    npm run lint
+
+### Visitar en Firebase Hostin
+[Haz clic aquí para visitar el sitio en Firebase Hosting](https://proyecto-nysl-2.web.app/?#/)
 
 ---
 
